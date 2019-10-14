@@ -112,6 +112,33 @@ hr {
   width: 8%;
 }
 
+.top {
+  width: 5%;
+  border-radius: 100%;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+}
+
+.navbar {
+  position: absolute;
+  right: 20px;
+  top: 40px;
+}
+
+.nav-item {
+/* position: absolute;
+right: 0;
+top: auto; */
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
 .hair-img {
   height: 110px;
   width: 100px;
