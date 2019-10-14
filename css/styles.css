@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'quilline_script_thinregular';
     src: url('../quil_s_t-webfont.woff2') format('woff2'),
-         url('https://github.com/ioannaki88/mywebsite/blob/master/quil_s_t-webfont.woff') format('woff');
+         url('../quil_s_t-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,7 +26,7 @@ h1 {
   color: #66bfbf;
   font-size: 6.5rem;
   margin: 50px auto 0 auto;
-  font-family: 'saginaw_light' !important;
+  font-family: 'quilline_script_thinregular' !important;
   font-weight: normal;
   font-style: normal;
 }
