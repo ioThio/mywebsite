@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'saginaw_light';
+    src: url('../saginawlight-webfont.woff2') format('woff2'),
+         url('../saginawlight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 6.5rem;
+  margin: 50px auto 20px auto;
+  font-family: 'saginaw_light' !important;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  color: #40514e;
+  /* margin: 0; */
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-image: url("../2trees.jpg");
+  background-position: center;
+}
+
+p {
+  margin: auto;
+  line-height: 2;
+  width: 35%;
+}
