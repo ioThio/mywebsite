@@ -10,7 +10,7 @@
 a {
     color: #66bfbf;
 
-    font-size: 6.5rem;
+    font-size: 5rem;
     font-family: 'saginaw_light' !important;
     font-weight: normal;
     font-style: normal;
@@ -25,5 +25,10 @@ a {
 
 .project2 {
   top: 55%;
+  right: 35%;
+}
+
+.project3 {
+  top: 85%;
   right: 35%;
 }
