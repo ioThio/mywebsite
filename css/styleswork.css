@@ -11,13 +11,31 @@ a {
     /*color: #66bfbf;*/
     color:black;
 
-    font-size: 1rem;
+    font-size: 2rem;
     font-family: 'saginaw_light' !important;
     font-weight: normal;
     font-style: normal;
-    display:block;
 	text-align:center;
     text-decoration: none;
+}
+
+.project1{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.project2{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.project3{
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 a:hover {
