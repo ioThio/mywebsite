@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'saginaw_light';
     src: url('../saginawlight-webfont.woff2') format('woff2'),
          url('../saginawlight-webfont.woff') format('woff');
@@ -8,7 +8,7 @@
 }
 
 a {
-    /*color: #66bfbf;*/
+    /*color: #66bfbf;
     color:grey;
 
     font-size: 5rem;
@@ -32,7 +32,7 @@ a {
 .project3 {
   top: 85%;
   right: 35%;
-}
+} */
 
 :root {
   --base-size: 200px;
