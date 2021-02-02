@@ -9,14 +9,18 @@
 
 a {
     /*color: #66bfbf;*/
-    color:#DA70D6;
+    color:black;
 
-    font-size: 3rem;
+    font-size: 1rem;
     font-family: 'saginaw_light' !important;
     font-weight: normal;
     font-style: normal;
     display:block;
     text-decoration: none;
+}
+
+a:hover {
+	color:white;
 }
  
 :root {
