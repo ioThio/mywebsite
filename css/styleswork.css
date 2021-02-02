@@ -21,21 +21,21 @@ a {
 
 .project1{
   position: absolute;
-  bottom: 8px;
+  top: 8px;
   left: 16px;
 }
 
 .project2{
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  top: 8px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .project3{
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+ position: absolute;
+  top: 8px;
+  right: 16px;
 }
 
 a:hover {
